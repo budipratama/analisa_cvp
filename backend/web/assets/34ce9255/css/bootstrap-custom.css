@@ -1,0 +1,35 @@
+/*========================================== custom ==================================*/
+/*======================= css untuk menu operation list ==========================*/
+.operatorRight {
+    float:right;
+    padding-bottom: 3px;
+}
+
+.oplist {
+    margin-top: 25px;
+}
+
+.right-menu > li > a{
+    text-align: left;
+}
+/*================================== pagination ===================================*/
+.pagination {
+    float :right;
+}
+/*============================== kartik grid view ==================================*/
+.panel-title-custom{
+    color: inherit;
+    font-size: 30px;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.summary{
+    margin-top : 5%;
+}
+/*================================= kartik export ==================================*/
+.expbtn{
+    float:left;
+    margin-top: 5px;
+}
